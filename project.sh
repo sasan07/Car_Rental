@@ -1,1 +1,1 @@
-echo "This is my first project jenkins, let see what happen"
+echo "This is my first project jenkins let see what happen"
